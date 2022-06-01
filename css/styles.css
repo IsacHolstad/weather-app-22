@@ -9,6 +9,7 @@ body{
 .weather-container{
     width: 95%;
     margin-top: 50px;
+    color: black;
     height: 150px;
     background-color: #63c5ea;
     border-radius: 10px;
