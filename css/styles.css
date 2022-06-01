@@ -3,6 +3,14 @@
     padding: 0 auto;
 }
 body{
-    background-color: rgb(0, 0, 0);
-    color: white;
+    background-color: #121212;
+}
+
+.weather-container{
+    width: 95%;
+    margin-top: 50px;
+    height: 150px;
+    background-color: #63c5ea;
+    border-radius: 10px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
